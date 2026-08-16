@@ -8,10 +8,6 @@
 
           \_Welcome to D-Hub Obfuscate v2
             yeeee mau maling ya kimakk
-
-    D-Hub Obfuscate v2
-    Runtime source wrapper
-    Payload chunks: 132
 ]]
 
 local DHUB2 = {}
